@@ -12,4 +12,16 @@
 
 **Pensamiento:** Me interesó la idea de ver como es el lenguaje ensamblador es por eso que elegí un curso que esta disponible en Youtube.
 
-**Enlace al trabajo:** [Ensamblador x86 Parte 1 Componentes básicos](https://youtu.be/VEfiY47qjM8)
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 1 Componentes básicos](https://youtu.be/VEfiY47qjM8)
+* [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
+
+### Día 3: 31 de Marzo del 2021
+**Progreso de hoy:** Aprendí las diferentes arquitecturas de una computadora que son las formas en que se interconectan los componentes.
+
+**Pensamiento:** Me está gustando el curso que elegí, traté de buscar un curso gratuito que fuerá lo más actualizado posible y hay conceptos que estoy entendiendo
+ya que la forma en que se abordan los temas es sencilla y entendible.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 2 Arquitecturas de cómputo](https://youtu.be/-863-Dkmtio)
+* [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
