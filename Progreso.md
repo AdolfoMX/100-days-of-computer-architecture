@@ -25,3 +25,12 @@ ya que la forma en que se abordan los temas es sencilla y entendible.
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 2 Arquitecturas de cómputo](https://youtu.be/-863-Dkmtio)
 * [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
+
+### Día 4: 01 de Abril del 2021
+**Progreso de hoy:** Aprendí que son los registros y sus diferentes tipos para el almacenamiento y procesamiento de los datos de la computadora.
+
+**Pensamiento:** Me gustó la explicación del tema, pero como siempre tuve que investigar por mi cuenta para reforzar lo aprendido de los registros.
+
+**Enlace al trabajo:**
+* [Ensamblador x86 Parte 3 Registros](https://youtu.be/0BVVy7l4aLM)
+* [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
