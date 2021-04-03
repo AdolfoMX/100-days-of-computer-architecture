@@ -34,3 +34,12 @@ ya que la forma en que se abordan los temas es sencilla y entendible.
 **Enlace al trabajo:**
 * [Ensamblador x86 Parte 3 Registros](https://youtu.be/0BVVy7l4aLM)
 * [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
+
+### Día 5: 02 de Abril del 2021
+**Progreso de hoy:** Aprendí sobre el ciclo fetch acerca de los tiempos de ejecución que realiza la CPU
+
+**Pensamiento:** Es interesante que la CPU lleva a cabo diferentes acciones para ejecutar cada instrucción de un programa un proceso tedioso para mí.
+
+**Enlace al trabajo:**
+* [Ensamblador x86 Parte 4 Ciclo de Fetch](https://youtu.be/KuiukbeW74w)
+* [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
