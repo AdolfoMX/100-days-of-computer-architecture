@@ -7,3 +7,4 @@
 * [Ensamblador x86 Parte 1 Componentes básicos](https://youtu.be/VEfiY47qjM8)
 * [Ensamblador x86 Parte 2 Arquitecturas de cómputo](https://youtu.be/-863-Dkmtio)
 * [Ensamblador x86 Parte 3 Registros](https://youtu.be/0BVVy7l4aLM)
+* [Ensamblador x86 Parte 4 Ciclo de Fetch](https://youtu.be/KuiukbeW74w)
