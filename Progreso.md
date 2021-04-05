@@ -43,3 +43,12 @@ ya que la forma en que se abordan los temas es sencilla y entendible.
 **Enlace al trabajo:**
 * [Ensamblador x86 Parte 4 Ciclo de Fetch](https://youtu.be/KuiukbeW74w)
 * [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
+
+### Día 6: 05 de Abril del 2021
+**Progreso de hoy:** Recientemente he realizado apuntes del tema hoy de los modos de direccionamiento en la CPU.
+
+**Pensamiento:** Al realizar apuntes del curso siento que me están ayudando como repaso para comprender mejor los temas vistos.
+
+**Enlace al trabajo:**
+* [Ensamblador x86 Parte 5 Modos de direccionamiento](https://youtu.be/a3IDSGHhiy0)
+* [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
