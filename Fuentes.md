@@ -9,3 +9,4 @@
 * [Ensamblador x86 Parte 3 Registros](https://youtu.be/0BVVy7l4aLM)
 * [Ensamblador x86 Parte 4 Ciclo de Fetch](https://youtu.be/KuiukbeW74w)
 * [Ensamblador x86 Parte 5 Modos de direccionamiento](https://youtu.be/a3IDSGHhiy0)
+* [Ensamblador x86 Parte 6 interrupciones](https://youtu.be/Hb7dUM0GAdw)
