@@ -52,3 +52,13 @@ ya que la forma en que se abordan los temas es sencilla y entendible.
 **Enlace al trabajo:**
 * [Ensamblador x86 Parte 5 Modos de direccionamiento](https://youtu.be/a3IDSGHhiy0)
 * [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
+
+### Día 7: 06 de Abril del 2021
+**Progreso de hoy:** Aprendí que son las interrupciones y como interactuan con el procesador y memoria de la máquina. 
+
+**Pensamiento:** Es interesante el tema de las interrupciones porque manda señales para indicar lo que debe hacer un determinado programa que además se 
+relaciona con el lenguaje ensamblador.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 6 interrupciones](https://youtu.be/Hb7dUM0GAdw)
+* [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
