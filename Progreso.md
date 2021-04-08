@@ -62,3 +62,12 @@ relaciona con el lenguaje ensamblador.
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 6 interrupciones](https://youtu.be/Hb7dUM0GAdw)
 * [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
+
+### Día 8: 07 de Abril del 2021
+**Progreso de hoy:** Hice una investigación de los diferentes tipos de lenguajes ensamblador que al final todos tienen la misma función de trabajo.
+
+**Pensamiento:** Es la primera vez que me entero de que hay diferentes tipos de lenguajes ensamblador y su ejecución de código incluyendo la sintaxis varía dependiendo del microprocesador de la máquina.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 7 Ensambladores](https://youtu.be/byI6p_JYJo4)
+* [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
