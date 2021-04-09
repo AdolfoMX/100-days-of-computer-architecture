@@ -71,3 +71,12 @@ relaciona con el lenguaje ensamblador.
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 7 Ensambladores](https://youtu.be/byI6p_JYJo4)
 * [Apuntes](https://github.com/AdolfoMX/La-Biblioteca/blob/main/apuntes/Ensamblador_x86_curso_online.md)
+
+### Día 9: 08 de Abril del 2021
+**Progreso de hoy:** Escribí mi primer hola mundo en lenguaje ensamblador.
+
+**Pensamiento:** Escribir un hola mundo en lenguaje ensamblador si que es extenso muy diferente al lenguaje c u otros que usan menos líneas código.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 10 Hola mundo](https://youtu.be/V2L_FysQl-o)
+* [Hola mundo](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/holamundo.asm)
