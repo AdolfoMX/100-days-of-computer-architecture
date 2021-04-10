@@ -79,4 +79,13 @@ relaciona con el lenguaje ensamblador.
 
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 10 Hola mundo](https://youtu.be/V2L_FysQl-o)
-* [Hola mundo](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/holamundo.asm)
+* [Hola mundo en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/holamundo.asm)
+
+### Día 10: 09 de Abril del 2021
+**Progreso de hoy:** Realize una suma y resta en lenguaje ensamblador.
+
+**Pensamiento:** Sentí que fue un poco difícil realizar una suma y resta porque hay que guardar de forma manual los valores en registros del microprocesador, necesito repasar para comprender mejor el lenguaje ensamblador.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 11 suma y resta](https://youtu.be/APYSVFshJI4)
+* [Suma y resta en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/suma_resta.asm)
