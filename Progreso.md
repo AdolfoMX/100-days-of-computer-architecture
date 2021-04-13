@@ -89,3 +89,12 @@ relaciona con el lenguaje ensamblador.
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 11 suma y resta](https://youtu.be/APYSVFshJI4)
 * [Suma y resta en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/suma_resta.asm)
+
+### Día 11: 12 de Abril del 2021
+**Progreso de hoy:** Realize mi primera multiplicación y división en lenguaje ensamblador haciendo uso de registros.
+
+**Pensamiento:** Lo poco que voy entendiendo es que los resultados de las operaciones se van almacenando en registros de determinados bites.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 12 Multiplicación y división](https://youtu.be/ou3HH7MOQYc)
+* [Multiplicación y división en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/multiplicacion_division.asm)
