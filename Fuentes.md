@@ -14,3 +14,4 @@
 * [Ensamblador x86 Parte 10 Hola mundo](https://youtu.be/V2L_FysQl-o)
 * [Ensamblador x86 Parte 11 suma y resta](https://youtu.be/APYSVFshJI4)
 * [Ensamblador x86 Parte 12 Multiplicación y división](https://youtu.be/ou3HH7MOQYc)
+* [Ensamblador x86 Parte 13 Desplazamientos](https://youtu.be/OoOloMNGMGE)
