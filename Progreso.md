@@ -98,3 +98,12 @@ relaciona con el lenguaje ensamblador.
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 12 Multiplicación y división](https://youtu.be/ou3HH7MOQYc)
 * [Multiplicación y división en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/multiplicacion_division.asm)
+
+### Día 12: 13 de Abril del 2021
+**Progreso de hoy:** Termine de hacer un programa que multiplica y divide por medio de desplazamientos de bits con los registros de memoria en lenguaje ensamblador.
+
+**Pensamiento:** Usar desplazamientos en lenguaje ensamblador es muy útil reduce la complejidad de hacerlo con los operandos de multiplicar y dividir.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 13 Desplazamientos](https://youtu.be/OoOloMNGMGE)
+* [Desplazamientos en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/desplazamientos.asm)
