@@ -107,3 +107,12 @@ relaciona con el lenguaje ensamblador.
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 13 Desplazamientos](https://youtu.be/OoOloMNGMGE)
 * [Desplazamientos en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/desplazamientos.asm)
+
+### Día 13: 14 de Abril del 2021
+**Progreso de hoy:** Hice un programa que hace uso de registros de rotacion para la manipulacion de digitos.
+
+**Pensamiento:** Estuvo interesante el temas de las rotaciones porque es similar a los desplazamientos solo que las rotaciones funcionan para hacer cambios de digitos por medio de los bites que declares.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 14 Rotaciones](https://youtu.be/aL1yvhkVt7I)
+* [Rotaciones en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/rotaciones.asm)
