@@ -116,3 +116,13 @@ relaciona con el lenguaje ensamblador.
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 14 Rotaciones](https://youtu.be/aL1yvhkVt7I)
 * [Rotaciones en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/rotaciones.asm)
+
+### Día 14: 20 de Abril del 2021
+**Progreso de hoy:** Termine de hacer un programa que hace una division haciendo uso de los registros de saltos del procesador.
+
+**Pensamiento:** Un uso interesante y tedioso pero que es rápido hacer operaciones con los saltos y que ayudan a decidir que partes del código se ejecutan primero.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 15 Instrucciones de comparación](https://youtu.be/7vKf0YDr5pQ)
+* [Ensamblador x86 Parte 16 Saltos](https://youtu.be/-sWAW3g7rJA)
+* [Instrucciones de comparaciones y saltos realizando una division de dos números en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/division_con_saltos.asm)
