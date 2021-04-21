@@ -16,3 +16,5 @@
 * [Ensamblador x86 Parte 12 Multiplicación y división](https://youtu.be/ou3HH7MOQYc)
 * [Ensamblador x86 Parte 13 Desplazamientos](https://youtu.be/OoOloMNGMGE)
 * [Ensamblador x86 Parte 14 Rotaciones](https://youtu.be/aL1yvhkVt7I)
+* [Ensamblador x86 Parte 15 Instrucciones de comparación](https://youtu.be/7vKf0YDr5pQ)
+* [Ensamblador x86 Parte 16 Saltos](https://youtu.be/-sWAW3g7rJA)
