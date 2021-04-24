@@ -126,3 +126,12 @@ relaciona con el lenguaje ensamblador.
 * [Ensamblador x86 Parte 15 Instrucciones de comparación](https://youtu.be/7vKf0YDr5pQ)
 * [Ensamblador x86 Parte 16 Saltos](https://youtu.be/-sWAW3g7rJA)
 * [Instrucciones de comparaciones y saltos realizando una division de dos números en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/division_con_saltos.asm)
+
+### Día 15: 23 de Abril del 2021
+**Progreso de hoy:** Logré realizar un programa en lenguage ensamblador que determine si un número es par o impar con funciones booleanas.
+
+**Pensamiento:** Las funciones booleanas hacen sus comparaciones mediante código binario entre dos números, no como en otros lenguajes que para determinar si un número es par o impar tienes que sacar su modulo y lo metes a un if en cambio este caso no sucede en lenguaje ensamblador.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 17 instrucciones booleanas](https://youtu.be/M2K8HY6aY-c)
+* [Programa que determina si un número es par o impar en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/funciones_booleanas_1.asm)
