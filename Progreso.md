@@ -135,3 +135,12 @@ relaciona con el lenguaje ensamblador.
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 17 instrucciones booleanas](https://youtu.be/M2K8HY6aY-c)
 * [Programa que determina si un número es par o impar en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/funciones_booleanas_1.asm)
+
+### Día 16: 28 de Abril del 2021
+**Progreso de hoy:** Hice un programa en lenguaje ensamblador que convierte un caracter mayúscula a minúscula.
+
+**Pensamiento:** Con esto repasaría las funciones booleanas muy básicas como el AND y OR gracias a los videos del curso de lenguaje ensamblador x86.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 18 Instrucciones booleanas 2](https://youtu.be/GyJSlxzo1AE)
+* [Programa que convierte un caracter mayúscula a minúscula en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/funciones_booleanas_2.asm)
