@@ -20,3 +20,4 @@
 * [Ensamblador x86 Parte 16 Saltos](https://youtu.be/-sWAW3g7rJA)
 * [Ensamblador x86 Parte 17 instrucciones booleanas](https://youtu.be/M2K8HY6aY-c)
 * [Ensamblador x86 Parte 18 Instrucciones booleanas 2](https://youtu.be/GyJSlxzo1AE)
+* [Ensamblador x86 Parte 19 Estructuras de decisión](https://youtu.be/jfzRTqQPXNg)
