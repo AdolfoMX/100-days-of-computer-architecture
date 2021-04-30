@@ -144,3 +144,12 @@ relaciona con el lenguaje ensamblador.
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 18 Instrucciones booleanas 2](https://youtu.be/GyJSlxzo1AE)
 * [Programa que convierte un caracter mayúscula a minúscula en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/funciones_booleanas_2.asm)
+
+### Día 17: 29 de Abril del 2021
+**Progreso de hoy:** Hice un programa en lenguaje ensamblador que hace una simulación de la sentencia if.
+
+**Pensamiento:** No hay una sentecia if como tal en lenguaje ensamblador y me entró la curiosidad de tratar crear uno parecido asi que me apoye de un curso para hacerlo.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 19 Estructuras de decisión](https://youtu.be/jfzRTqQPXNg)
+* [Programa que compara un número de si es igual a otro o no en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/estructuras_de_decisi%C3%B3n_1.asm)
