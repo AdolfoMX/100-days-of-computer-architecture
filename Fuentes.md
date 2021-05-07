@@ -21,3 +21,4 @@
 * [Ensamblador x86 Parte 17 instrucciones booleanas](https://youtu.be/M2K8HY6aY-c)
 * [Ensamblador x86 Parte 18 Instrucciones booleanas 2](https://youtu.be/GyJSlxzo1AE)
 * [Ensamblador x86 Parte 19 Estructuras de decisión](https://youtu.be/jfzRTqQPXNg)
+* [Ensamblador x86 Parte 20 Estructuras de decisión 2](https://youtu.be/MxReYas1Rjw)
