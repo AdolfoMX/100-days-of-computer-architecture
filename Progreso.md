@@ -125,9 +125,16 @@
 * [Ensamblador x86 Parte 20 Estructuras de decisión 2](https://youtu.be/MxReYas1Rjw)
 * [Programa que compara un número de si es igual a otro o no a su vez simulando la sentencia if-else en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/estructuras_de_decisi%C3%B3n_2.asm)
 
-### Día 19: 06 de Mayo del 2021
+### Día 19: 07 de Mayo del 2021
 **Progreso de hoy:** Realize un programa que replica el ciclo for para una sumatoria de números.
 
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 21 Estructuras de control](https://youtu.be/sH6XvUfB-qo)
 * [Programa que hace una sumatoria de números en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/estructuras_de_control_1.asm)
+
+### Día 20: 10 de Mayo del 2021
+**Progreso de hoy:** Realize un programa que replica el ciclo while para una resta de números.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 22 Estructuras de control 2](https://youtu.be/tAUPBLB75KE)
+* [Programa que hace una resta de números en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/estructuras_de_control_2.asm)
