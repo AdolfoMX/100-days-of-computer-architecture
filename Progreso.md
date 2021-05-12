@@ -138,3 +138,10 @@
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 22 Estructuras de control 2](https://youtu.be/tAUPBLB75KE)
 * [Programa que hace una resta de números en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/estructuras_de_control_2.asm)
+
+### Día 21: 11 de Mayo del 2021
+**Progreso de hoy:** Hice un programa que impreme mensajes haciendo uso de subrutinas y macros en lenguaje ensamblador.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 23 Macros y procedimientos](https://youtu.be/ExbTrWSKMug)
+* [Subrutinas y macros en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/subrutinas_y_macros.asm)
