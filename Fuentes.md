@@ -24,3 +24,4 @@
 * [Ensamblador x86 Parte 20 Estructuras de decisión 2](https://youtu.be/MxReYas1Rjw)
 * [Ensamblador x86 Parte 21 Estructuras de control](https://youtu.be/sH6XvUfB-qo)
 * [Ensamblador x86 Parte 22 Estructuras de control 2](https://youtu.be/tAUPBLB75KE)
+* [Ensamblador x86 Parte 23 Macros y procedimientos](https://youtu.be/ExbTrWSKMug)
