@@ -145,3 +145,11 @@
 **Enlace al trabajo:** 
 * [Ensamblador x86 Parte 23 Macros y procedimientos](https://youtu.be/ExbTrWSKMug)
 * [Subrutinas y macros en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/subrutinas_y_macros.asm)
+
+### Día 22: 12 de Mayo del 2021
+**Progreso de hoy:** Aprendir a usar arreglos en lenguaje ensamblador para la impresión de una serie números sin usar ciclos.
+
+**Enlace al trabajo:** 
+* [Ensamblador x86 Parte 24 Arreglos](https://youtu.be/mRYco9bRwOAg)
+* [Manejo de arreglos parte 1 en lenguaje ensamblador](https://github.com/AdolfoMX/La-Biblioteca/blob/main/programas/ensamblador/arreglos_1.asm)
+
